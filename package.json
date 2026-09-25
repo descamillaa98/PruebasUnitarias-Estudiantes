@@ -1,0 +1,24 @@
+{
+  "name": "pruebasunitarias-estudiantes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/descamillaa98/PruebasUnitarias-Estudiantes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/descamillaa98/PruebasUnitarias-Estudiantes/issues"
+  },
+  "homepage": "https://github.com/descamillaa98/PruebasUnitarias-Estudiantes#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
